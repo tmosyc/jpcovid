@@ -9,7 +9,7 @@ jpcovidはcovid-19による都道府県ごとの死者数の総計をその都�
 グラフの値が高いところほど、政策提案者はより深刻な間違いを犯していると考えることができます。
 
 # jpcovidのインストール方法
-$pip install hiscovid_v2
+$pip install jpcovid
 
 # jpcovidの実行方法
 $ jpcovid <都道府県名>
