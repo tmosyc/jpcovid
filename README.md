@@ -16,16 +16,16 @@ $ jpcovid <都道府県名>
 
 $ jpcovid Tokyo Osaka
 
-<img src="japan_southkorea.png" width="400">
+<img src="tokyo_osaka.png" width="400">
 
-$ jpcovid tokyo tottori
+$ jpcovid Tokyo Tottori
 
-<img src="japan_taiwan.png" width="400">
+<img src="tokyo_tottori.png" width="400">
 
 $ jpcovid Osaka Niigata
 
-<img src="taiwan_unitedstates_unitedkingdom.png" width="400">
+<img src="osaka_niigata.png" width="400">
 
-$ jpcovid Hokkaido Okinawa tottiri
+$ jpcovid Hokkaido Nara
 
-<img src="taiwan_unitedstates_unitedkingdom.png" width="400">
+<img src="hokkaido_nara.png" width="400">
