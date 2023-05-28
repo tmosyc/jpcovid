@@ -10,7 +10,7 @@ jpcovidはcovid-19による都道府県ごとの死者数の総計をその都�
 
 jpcovid は、インターネットを介して次のサイトから最新のデータをスクレイピングします。
 
-以下のnhkのデータセットを利用していましたが、利用できなくなりました
+以下のnhkのデータセットを利用していましたが、更新されなくなりました
 
 https://www3.nhk.or.jp/n-data/opendata/coronavirus/nhk_news_covid19_prefectures_daily_data.csv
 
